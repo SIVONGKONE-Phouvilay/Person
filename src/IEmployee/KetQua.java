@@ -1,5 +1,5 @@
 package IEmployee;
-public class TestEmployee {
+public class KetQua {
     public static void main(String[] args) {
         System.out.println("Part Time:");
         IEmployee employee1 = new PartTimeEmployee("Adexa KEOBORLAKOT", 45000, 5);
