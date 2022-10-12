@@ -1,4 +1,4 @@
-package PizzarClient;
+package PizzaClient;
 
 public interface IShape {
     public double getArea();

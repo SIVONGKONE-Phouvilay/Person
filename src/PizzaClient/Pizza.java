@@ -1,4 +1,4 @@
-package PizzarClient;
+package PizzaClient;
 
 public class Pizza {
     private double _price;

@@ -1,4 +1,4 @@
-package PizzarClient;
+package PizzaClient;
 
 public class PizzaDeal {
 
@@ -6,6 +6,7 @@ public class PizzaDeal {
 
         return p.getPrice() / p.getShape().getArea();
     }
+
 
     public boolean betterDeal(Pizza p1, Pizza p2) {
 
