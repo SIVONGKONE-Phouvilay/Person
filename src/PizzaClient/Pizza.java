@@ -3,9 +3,10 @@ package PizzaClient;
 public class Pizza {
     private double _price;
     private IShape _shape;
+
     public Pizza(double p, IShape s) {
-        _price = p;
-        _shape = s;
+        this._price = p;
+        this._shape = s;
     }
     public double getPrice() {
         return _price;

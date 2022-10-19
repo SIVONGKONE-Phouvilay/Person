@@ -3,8 +3,8 @@ class Rectangle implements IShape {
     private double _width;
     private double _height;
     public Rectangle(double w, double h) {
-        _width = w;
-        _height = h;
+        this._width = w;
+        this._height = h;
     }
 
     @Override
