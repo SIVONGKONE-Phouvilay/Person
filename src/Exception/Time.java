@@ -1,4 +1,4 @@
-package Test;
+package Exception;
 
 public class Time {
     int hour;
